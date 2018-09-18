@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1008408853650",
+    "firebase_url": "https://mmse-bbcb1.firebaseio.com",
+    "project_id": "mmse-bbcb1",
+    "storage_bucket": "mmse-bbcb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008408853650:android:04b7ff7655851261",
+        "android_client_info": {
+          "package_name": "com.example.khire.mmse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008408853650-7r04dn44i4knkm2g0qja2n2s071n9gd0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khire.mmse",
+            "certificate_hash": "52206a0af8b54998e0714aa138d36b4a8a390e9c"
+          }
+        },
+        {
+          "client_id": "1008408853650-1v2nea03pc3c26ap1gcdkduv36dp9gj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCH3GnMc53Cr8DIEeZT6A6SuXuiR-qjPpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008408853650-1v2nea03pc3c26ap1gcdkduv36dp9gj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
